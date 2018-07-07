@@ -21,7 +21,7 @@
             }
         },
         methods: {
-            addNumber () { //addNumber: function () { ...
+            addNumber () { //addNumber: function () { ... ass
                 let rnd = Math.floor(Math.random() * 11) - 5;
                 this.nums.push(rnd)
             }
